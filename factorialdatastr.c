@@ -33,6 +33,10 @@
 //                     2*fact(1)
 //                        1*fact(0)
 
+
+
+
+// Code for factorial number by recursion
 #include<stdio.h>
 
 int fact(int n)
